@@ -1,9 +1,9 @@
 # Sana Commerce Software Development Courses `24
-____
+
 ![Sana Commerce Logo](https://upload.wikimedia.org/wikipedia/commons/0/08/Sana_Commerce_Logo.png)
 
 ## Практична робота №1
-____
+
 ### Основні завдання
 У **практичній роботі №1** було:
 ```
@@ -25,7 +25,7 @@ ____
 - [ ] git branch
 ```
 ## Практична робота №2
-____
+
 ### Основні завдання
 У **практичній роботі №2** потрібно:
 ```
